@@ -1,6 +1,7 @@
 # iStick 데이터베이스 레포지토리 (renewal)
 
 DB 설계 by 이준호
+
 2019 Capstone Project iStick
 
 ![database_ERR_Diagram](https://user-images.githubusercontent.com/38856112/170178548-e448ec18-5ba9-4c2f-b619-10ae5eee0ee0.PNG)
