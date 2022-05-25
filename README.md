@@ -1,4 +1,4 @@
-# iStick 데이터베이스 레포지토리 (renewal)
+# iStick 데이터베이스 (renewal)
 
 DB ERD 설계 by 이준호
 
