@@ -1,6 +1,6 @@
 # iStick 데이터베이스 레포지토리 (renewal)
 
-DB 설계 by 이준호
+DB ERD 설계 by 이준호
 
 2019 Capstone Project iStick
 
